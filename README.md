@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá visitante 👋
+
+Ao longo da minha carreira profissional, tive o prazer de atuar em diversos projetos de órgãos governamentais (IPEA, ANAC, ANEEL, MDA e SEF-DF), através dos quais elevei o meu conhecimento na área de desenvolvimento de software e gestão pública.
+
+Encontrei no setor privado o desafio de desenvolver sistemas e realizar integrações para as mais variadas áreas, como o mercado financeiro, aéreo e turismo, cujos desafios e as necessidades dos clientes sempre me estimularam ao aprimoramento e busca de novos conhecimentos.
+
+Como parte do processo evolutivo, atualmente estou focando no aprendizado de novas tecnologias, tais como React, Redux, Python e Docker, então vamos juntos nessa jornada?! 
+
+![Processo de aprendizagem](https://upis.br/blog/wp-content/uploads/2019/08/processo-de-aprendizagem-entenda-o-que-e-as-diferentes-teorias.jpg)
 
 <!--
 **rafaelgs84/rafaelgs84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
